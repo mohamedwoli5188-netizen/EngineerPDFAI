@@ -1,0 +1,15 @@
+# EngineerPDFAI
+
+Streamlit app for construction price adjustment (IPC/PPPA).
+
+## Features
+- 📂 Upload CSV/Excel indices
+- 🧮 Calculate IPC adjustments
+- 📈 Interactive Plotly charts
+- 🔮 Forecast payments with Prophet
+- 📄 Export reports (CSV, JSON, PDF)
+
+## Installation
+```bash
+pip install -r requirements.txt
+streamlit run app.py
