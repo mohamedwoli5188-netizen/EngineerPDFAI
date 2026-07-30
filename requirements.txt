@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+plotly
+prophet
+fpdf
+sqlite3-binary
