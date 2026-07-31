@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Mac
+.DS_Store
+
+# Private project files
+uploads/
+uploaded_boq.pdf
+kabri_dahar.json
+data/projects/
+data/project.json
+
+# Database
+projects.db
+
+# Backup files
+*.save
+*_backup.py
